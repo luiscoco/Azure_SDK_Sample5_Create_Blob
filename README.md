@@ -2,15 +2,7 @@
 
 ## 1. We first create an Azure Storage Account
 
-![image](https://github.com/luiscoco/Azure_SDK_Sample5_Create_Blob/assets/32194879/2cde42e2-6ca9-44b2-89ab-a4c7826a1af6)
 
-![image](https://github.com/luiscoco/Azure_SDK_Sample5_Create_Blob/assets/32194879/9e94d4de-9ca4-40e7-be09-d8b462669916)
-
-![image](https://github.com/luiscoco/Azure_SDK_Sample5_Create_Blob/assets/32194879/0e7d341a-6b1a-4486-ad57-0d620707cf9a)
-
-![image](https://github.com/luiscoco/Azure_SDK_Sample5_Create_Blob/assets/32194879/4c413071-8c8a-4c2e-882a-0cbfc00daea5)
-
-![image](https://github.com/luiscoco/Azure_SDK_Sample5_Create_Blob/assets/32194879/617da66e-e4f5-49b0-a053-e607591660d4)
 
 ## 2. Create a C# console application and input the source code
 
